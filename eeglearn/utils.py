@@ -1,4 +1,3 @@
-__author__ = 'Pouya Bashivan'
 from __future__ import print_function
 
 import math as m
